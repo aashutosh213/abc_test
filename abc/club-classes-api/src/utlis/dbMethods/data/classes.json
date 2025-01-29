@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Test",
+    "startDate": "2023-12-01",
+    "endDate": "2025-12-20",
+    "startTime": "14:00",
+    "duration": "1:00",
+    "capacity": 10,
+    "active": true,
+    "_id": "6798179760a8b8ebb40ccf3d"
+  },
+  {
+    "name": "Test",
+    "startDate": "2023-12-01",
+    "endDate": "2025-12-20",
+    "startTime": "14:00",
+    "duration": "1:00",
+    "capacity": 10,
+    "active": true,
+    "_id": "6798181ab9a7d7362945e03d"
+  },
+  {
+    "name": "test_1",
+    "startDate": "2023-12-01",
+    "endDate": "2025-12-20",
+    "startTime": "14:00",
+    "duration": "1:00",
+    "capacity": 10,
+    "active": true,
+    "_id": "6798192cd1e04689ff2b1a64"
+  },
+  {
+    "name": "test_12",
+    "startDate": "2023-12-01",
+    "endDate": "2025-12-20",
+    "startTime": "14:00",
+    "duration": "1:00",
+    "capacity": 10,
+    "active": true,
+    "_id": "67981938d1e04689ff2b1a65"
+  }
+]
